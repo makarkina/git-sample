@@ -7,3 +7,5 @@ It's new line
 yyyyy
 
 Hello, updating!
+
+Hello, world!
